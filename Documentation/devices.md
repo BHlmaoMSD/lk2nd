@@ -225,7 +225,7 @@ which references all the nodes that don't exist anymore, and refuses to proceed.
 You can currently find such overlays for supported devices in the [dtbo-lk2nd]
 project.
 
-[dtbo-lk2nd]: https://github.com/BHlmaoMSD/dtbo-lk2nd
+[dtbo-lk2nd]: https://github.com/barni2000/dtbo-lk2nd/releases
 
 ## Porting new devices
 
