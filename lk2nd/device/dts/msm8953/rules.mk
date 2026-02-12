@@ -25,10 +25,10 @@ ADTBS += \
 	$(LOCAL_DIR)/sdm450-mtp.dtb \
 	$(LOCAL_DIR)/sdm450-samsung-r04.dtb \
 	$(LOCAL_DIR)/sdm450-xiaomi-rosy.dtb \
+	$(LOCAL_DIR)/sdm632-casuarina.dtb \
 	$(LOCAL_DIR)/sdm632-fairphone-fp3.dtb \
 	$(LOCAL_DIR)/sdm632-mtp.dtb \
 	$(LOCAL_DIR)/sdm632-mtp-3.dtb \
-	$(LOCAL_DIR)/sdm632-casuarina.dtb \
 
 QCDTBS += \
 	$(LOCAL_DIR)/msm8953-motorola-potter.dtb \
