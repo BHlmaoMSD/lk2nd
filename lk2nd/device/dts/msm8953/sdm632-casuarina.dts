@@ -7,7 +7,7 @@
 
 / {
 	qcom,msm-id = <QCOM_ID_SDM632 0>;
-	qcom,board-id = <0x0b 0x01>;
+	qcom,board-id = <QCOM_BOARD_ID_QRD 1>;
 	/* Bootloader appears to really want to access symbols */
 	__symbols__ {};
 };
