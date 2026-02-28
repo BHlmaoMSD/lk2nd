@@ -15,4 +15,6 @@
 &lk2nd {
 	model = "Vsmart Joy 3 (casuarina)";
 	compatible = "vsmart,casuarina";
+
+	lk2nd,dtb-files = "sdm632-vsmart-casuarina";
 };
